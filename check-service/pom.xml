@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <jedis.version>3.1.0</jedis.version>
         <mysql.version>5.1.38</mysql.version>
-        <jpa.version>2.2.0.RELEASE</jpa.version>
+        <jpa.version>2.7.18</jpa.version>
         <lombok.version>1.18.12</lombok.version>
         <hibernate.version>5.4.10.Final</hibernate.version>
     </properties>
